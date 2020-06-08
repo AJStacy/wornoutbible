@@ -6,5 +6,8 @@
   "repository": "git@github.com:AJStacy/wornoutbible.git",
   "author": "Andrew Stacy <astacy@stratacache.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "bundle exec jekyll serve"
+  }
 }

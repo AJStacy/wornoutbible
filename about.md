@@ -6,8 +6,7 @@ permalink: /about/
 
 Hi. I'm Andrew Stacy and I'm a follower of Christ. This is the primary trait that defines me and impacts everything I do. I am also a professional web developer and love working with technology.
 
-What you will find here are blog posts about my experiences with God's word. I like to write down my thoughts and I thought it would
-be fun to share them with others.
+What you will find here are blog posts about my experiences with God's word. I like to write down my thoughts and I thought it would be fun to share them with others.
 
 I would highly encourage anyone who reads my blog posts to filter what I say through your own personal prayer and through other Christians you trust (like your local pastor). I am not a theologian. I am not a pastor. I am just a dude that loves Jesus and wants to share my thoughts.
 

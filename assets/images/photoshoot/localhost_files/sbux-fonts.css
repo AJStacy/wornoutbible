@@ -1,0 +1,268 @@
+/**************************************************************
+* SoDo Serif Font Definitions
+***************************************************************/
+
+@font-face {
+  src: url("WOFF/SoDoSerif-Thin.woff") format("woff");
+  font-family: "SoDoSerif-Thin";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-ThinItalic.woff") format("woff");
+  font-family: "SoDoSerif-ThinItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-Light.woff") format("woff");
+  font-family: "SoDoSerif-Light";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-LightItalic.woff") format("woff");
+  font-family: "SoDoSerif-LightItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-Regular.woff") format("woff");
+  font-family: "SoDoSerif-Regular";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-Italic.woff") format("woff");
+  font-family: "SoDoSerif-Italic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-SemiBold.woff") format("woff");
+  font-family: "SoDoSerif-SemiBold";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-SemiBoldItalic.woff") format("woff");
+  font-family: "SoDoSerif-SemiBoldItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-Bold.woff") format("woff");
+  font-family: "SoDoSerif-Bold";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-BoldItalic.woff") format("woff");
+  font-family: "SoDoSerif-BoldItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-Black.woff") format("woff");
+  font-family: "SoDoSerif-Black";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSerif-BlackItalic.woff") format("woff");
+  font-family: "SoDoSerif-BlackItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+/**************************************************************
+* SoDo Sans-Serif Font Definitions
+***************************************************************/
+
+@font-face {
+  src: url("WOFF/SoDoSans-Thin.woff") format("woff");
+  font-family: "SoDoSans-Thin";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-ThinItalic.woff") format("woff");
+  font-family: "SoDoSans-ThinItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-Light.woff") format("woff");
+  font-family: "SoDoSans-Light";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-LightItalic.woff") format("woff");
+  font-family: "SoDoSans-LightItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-Regular.woff") format("woff");
+  font-family: "SoDoSans-Regular";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-Italic.woff") format("woff");
+  font-family: "SoDoSans-Italic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-SemiBold.woff") format("woff");
+  font-family: "SoDoSans-SemiBold";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-SemiBoldItalic.woff") format("woff");
+  font-family: "SoDoSans-SemiBoldItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-Bold.woff") format("woff");
+  font-family: "SoDoSans-Bold";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-BoldItalic.woff") format("woff");
+  font-family: "SoDoSans-BoldItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-Black.woff") format("woff");
+  font-family: "SoDoSans-Black";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/SoDoSans-BlackItalic.woff") format("woff");
+  font-family: "SoDoSans-BlackItalic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+/**************************************************************
+* Lunchbox-Bold Font Definition
+***************************************************************/
+
+@font-face {
+  src: url("WOFF/lunchbox-bold.woff") format("woff");
+  font-family: "LunchBox-Bold";
+  font-style: normal;
+  font-weight: normal;
+}
+
+/**************************************************************
+* VivaBeautifulProb-Regular Font Definition
+***************************************************************/
+
+@font-face {
+  src: url("WOFF/VivaBeautifulProb-Regular.woff") format("woff");
+  font-family: "VivaBeautifulProb-Regular";
+  font-style: normal;
+  font-weight: normal;
+}
+
+/**************************************************************
+* TradeGothic Font Definitions
+***************************************************************/
+
+@font-face {
+  src: url("WOFF/TradeGothicLT-STD.woff") format("woff");
+  font-family: "TradeGothic";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/TradeGothicLTStd-Bold.woff") format("woff");
+  font-family: "TradeGothic";
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url("WOFF/TradeGothicLTStd-Obl.woff") format("woff");
+  font-family: "TradeGothic";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/TradeGothicLTStd-Cn18.woff") format("woff");
+  font-family: "TradeGothic-LT-Condensed";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/TradeGothicLTStd-BdCn20.woff") format("woff");
+  font-family: "TradeGothic-LT-Bold-Condensed";
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url("WOFF/TradeGothicNextLTPro-Hv.woff") format("woff");
+  font-family: "TradeGothic-Next-Heavy";
+  font-style: normal;
+  font-weight: normal;
+}
+
+/**************************************************************
+* Pike Font Definitions
+***************************************************************/
+
+@font-face {
+  src: url("WOFF/Pike-Regular.woff") format("woff");
+  font-family: "Pike";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("WOFF/Pike-Bold.woff") format("woff");
+  font-family: "Pike";
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url("WOFF/Pike-Light.woff") format("woff");
+  font-family: "Pike-Light";
+  font-style: normal;
+  font-weight: normal;
+}

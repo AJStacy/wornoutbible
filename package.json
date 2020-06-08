@@ -1,0 +1,10 @@
+{
+  "name": "wornoutbible",
+  "version": "1.0.0",
+  "description": "Andrew Stacy's personal journey through God's word.",
+  "main": "index.html",
+  "repository": "git@github.com:AJStacy/wornoutbible.git",
+  "author": "Andrew Stacy <astacy@stratacache.com>",
+  "license": "MIT",
+  "private": false
+}
